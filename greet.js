@@ -1,3 +1,3 @@
 const greeting = (name = "World") => {
-  return `Hello ${name}!`;
+  return `Goodbye ${name}!`;
 }
